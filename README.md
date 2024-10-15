@@ -1,2 +1,6 @@
 # HX.js
-Some scripts should be written in response to school policies
+**用油猴的沙盒环境，基于js写的。主要是绕过刷脸和加速刷课。如果学校有其他不当人的要求，那我会不定时更新.jpg**
+
+###### <u>如果对你有帮助点个star吧</u>
+
+
